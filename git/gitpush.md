@@ -36,13 +36,7 @@
 >
 > [Import code](https://github.com/YuanFeis/yfstudy/import)
 
-今天提交git仓库的时候，遇到了如截图所示的问题，提示Your branch is up-to-date with 'origin/master'.
-
-
-
-
-
-![img](https:////upload-images.jianshu.io/upload_images/7271374-610827abc6eb88a8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/486/format/webp)
+今天提交git仓库的时候，遇到了如截图所示的问题，提示Your branch is up-to-date with 'origin/master'
 
 
 
@@ -66,12 +60,6 @@ $ git branch
 
 
 
-
-
-![img](https:////upload-images.jianshu.io/upload_images/7271374-d2b41f107ddd92b1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/461/format/webp)
-
-
-
 ##### 然后切换到你的新分支
 
 ```
@@ -88,10 +76,6 @@ $ git commit -m "18.03.01"
 ```
 
 ##### 然后`git status`检查是否成功
-
-
-
-![img](https:////upload-images.jianshu.io/upload_images/7271374-e7db256c45e435f5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/476/format/webp)
 
 
 
