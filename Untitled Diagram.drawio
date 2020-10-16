@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T13:48:58.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.0" etag="ER1Mvj-kAeaNzvjP8gqD" type="github"><diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">7ZjBjpswEIafhmMlsA2Ba9Ld7WVPkbZnLwxgrcGRcTZJn742DASaoDRSq+wBcsjMP4PHnm+IIjy6qY4vmu/KV5WB9IifHT363SMkYJTZL6ecOoUlSScUWmSYdBa24heg6KO6Fxk0k0SjlDRiNxVTVdeQmonGtVaHaVqu5LTqjhdwIWxTLi/VnyIzJaqB758DP0AUJZaOQwy88/Sj0GpfYz2P0Ly9unDF+7Uwvyl5pg4jiT55dKOVMp1VHTcgXW/7tnX3Pc9Eh31rqM3f3EBXDCiLYgIZpQHAN1zhk8s99mK9b0QNTeORSNo115n4tGbhTATf6bbIKITHM6e+pbaupWed9aEUBrY7nrrIwQ6Q1UpTSesF1my7B25/vvWGBjkn4005RFJViRTtXNXmmVdCunl7A53xmqOMw+Va2/obJZVut0R9P0rakrmQcqTnofu44karDxhFovYajjfuc9840AaOIwn7/gKqAqNPNgWjlOIM4DMSxOgfzhPH+oErR8M2iBynvBjWPpO2BsK+Dp6F9jQ5D3P2HkMS8Cvgt8Y9JcQPFpa3WLJwypJdogyiKygH8Z+iJLMowwXlvSjD6KEs6SxLurC8xXIVTFlS/6Es2SzL1cLyFssg+VIsw1mW8cLyFksS//HXhz6UZTTLkiwsb7GMyJdiuZplyRaW97Jkq4eyjGdZRgvLe39j/ytL657fWbSx0Ysh+vQb</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-16T14:00:09.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="erDCPiZZ8SVY0S5O7jO4" version="13.8.0" type="github">
+  <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
+    <mxGraphModel dx="1422" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="374e34682ed331ee-1" value="现代交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="330" y="180" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="45236fa5f4b8e91a-1" target="n56QRDZfdTH0vBFQAGBd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-1" value="光交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="450" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-2" value="Stage 5" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="450" y="560" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-3" value="Stage 3" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="710" y="300" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-4" value="Stage 7" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="190" y="300" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-5" value="Stage 8" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="280" y="130" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-6" value="Stage 2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="620" y="130" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-7" value="Stage 4" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="620" y="470" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-8" value="Stage 6" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="280" y="470" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-1" value="现有的大部分情况是光纤在传输部分带宽几乎无限-200Tb/s窗口200nm；但在交换部分，只有几个Girls，所以许多研究机构致力于研究开发光交换/光路由技术，在光子层面上完成网络交换。当全光交换系统成为现实，可以满足飞速增长的带宽和处理速度需求，减少多达75%的网络成本。" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-210" width="210" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
