@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T14:17:55.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="WG-P4c_RrdnoOGL4msKh" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T14:18:19.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="JZwvUc1xl0VOCGG4s0P4" version="13.8.0" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -114,8 +114,8 @@
         <mxCell id="n56QRDZfdTH0vBFQAGBd-32" value="&lt;div&gt;1878-人工交换&lt;/div&gt;&lt;div&gt;1892-机电交换&lt;/div&gt;&lt;div&gt;1940-电子交换&lt;/div&gt;&lt;div&gt;1965-程控数字交换&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-34" value="通信工程171班&lt;br&gt;赵镜元&lt;br&gt;2017136133" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
-          <mxGeometry x="850" y="590" width="100" height="100" as="geometry" />
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-34" value="通信工程171班&lt;br style=&quot;font-size: 22px;&quot;&gt;赵镜元&lt;br style=&quot;font-size: 22px;&quot;&gt;2017136133" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="790" y="580" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
