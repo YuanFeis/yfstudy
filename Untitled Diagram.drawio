@@ -1,118 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T14:17:03.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ciSUT9OyFBJuVANgacoU" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T14:17:55.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="WG-P4c_RrdnoOGL4msKh" version="13.8.0" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="374e34682ed331ee-1" value="现代交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;" parent="1" vertex="1">
+        <mxCell id="374e34682ed331ee-1" value="现代交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#5AA9E6;fillColor=#FFE45E;strokeColor=#FF6392;" parent="1" vertex="1">
           <mxGeometry x="430" y="265" width="220" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="45236fa5f4b8e91a-1" target="n56QRDZfdTH0vBFQAGBd-1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;" edge="1" parent="1" source="45236fa5f4b8e91a-1" target="n56QRDZfdTH0vBFQAGBd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-1" value="光交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-1" value="光交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#5AA9E6;fillColor=#FFE45E;strokeColor=#FF6392;" parent="1" vertex="1">
           <mxGeometry x="500" y="200" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-2" value="数据交换" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-2" value="数据交换" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#5AA9E6;fillColor=#FFE45E;strokeColor=#FF6392;" parent="1" vertex="1">
           <mxGeometry x="330" y="351.25" width="100" height="102.5" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-3" value="宽带交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-3" value="宽带交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#5AA9E6;fillColor=#FFE45E;strokeColor=#FF6392;" parent="1" vertex="1">
           <mxGeometry x="630" y="230" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-33" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="45236fa5f4b8e91a-4" target="n56QRDZfdTH0vBFQAGBd-32">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-33" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="1" source="45236fa5f4b8e91a-4" target="n56QRDZfdTH0vBFQAGBd-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-4" value="电话交换" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-4" value="电话交换" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#5AA9E6;fillColor=#FFE45E;strokeColor=#FF6392;" parent="1" vertex="1">
           <mxGeometry x="390" y="240" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-15" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="45236fa5f4b8e91a-6" target="n56QRDZfdTH0vBFQAGBd-4">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-15" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="1" source="45236fa5f4b8e91a-6" target="n56QRDZfdTH0vBFQAGBd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-6" value="软交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-6" value="软交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#5AA9E6;fillColor=#FFE45E;strokeColor=#FF6392;" parent="1" vertex="1">
           <mxGeometry x="570" y="460" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-7" value="快速交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-7" value="快速交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#5AA9E6;fillColor=#FFE45E;strokeColor=#FF6392;" parent="1" vertex="1">
           <mxGeometry x="420" y="460" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-1" value="现有的大部分情况是光纤在传输部分带宽几乎无限-200Tb/s窗口200nm；但在交换部分，只有几个Girls，所以许多研究机构致力于研究开发光交换/光路由技术，在光子层面上完成网络交换。当全光交换系统成为现实，可以满足飞速增长的带宽和处理速度需求，减少多达75%的网络成本。" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-1" value="现有的大部分情况是光纤在传输部分带宽几乎无限-200Tb/s窗口200nm；但在交换部分，只有几个Girls，所以许多研究机构致力于研究开发光交换/光路由技术，在光子层面上完成网络交换。当全光交换系统成为现实，可以满足飞速增长的带宽和处理速度需求，减少多达75%的网络成本。" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="470" y="10" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-4" value="针对IP电话技术存在的缺点进行改进，将网关呼叫控制和媒体交换功能相分离，提出软交换概念。软交换网虽基于分组交换，但仍是交换技术发展的有一个里程碑。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-4" value="针对IP电话技术存在的缺点进行改进，将网关呼叫控制和媒体交换功能相分离，提出软交换概念。软交换网虽基于分组交换，但仍是交换技术发展的有一个里程碑。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="620" y="650" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-10" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-6" target="n56QRDZfdTH0vBFQAGBd-9">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-10" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-6" target="n56QRDZfdTH0vBFQAGBd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-6" value="异步转移模式ATM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-6" value="异步转移模式ATM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="740" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-14" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.025;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-7" target="n56QRDZfdTH0vBFQAGBd-12">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-14" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.025;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-7" target="n56QRDZfdTH0vBFQAGBd-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-7" value="IP交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-7" value="IP交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="670" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-13" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-8" target="n56QRDZfdTH0vBFQAGBd-11">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-13" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-8" target="n56QRDZfdTH0vBFQAGBd-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-8" value="综合交换机技术" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-8" value="综合交换机技术" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="730" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-9" value="20世纪80年代末提出，ATM技术将面向连接机制和分组机制相结合，建立连接不独占某个物理通道而是和其他连接统计复用，保证QoS的完备机制。但ATM技术的复杂性、造价昂贵，制约了其发展。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-9" value="20世纪80年代末提出，ATM技术将面向连接机制和分组机制相结合，建立连接不独占某个物理通道而是和其他连接统计复用，保证QoS的完备机制。但ATM技术的复杂性、造价昂贵，制约了其发展。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="880" y="120" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-11" value="ATM技术没有实现综合业务的想法，提出综合交换机技术，通过对现有电路交换网络进行改造，达到同时支持电路交换和宽带交换的目的。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-11" value="ATM技术没有实现综合业务的想法，提出综合交换机技术，通过对现有电路交换网络进行改造，达到同时支持电路交换和宽带交换的目的。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="860" y="300" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-12" value="Internet的成功，使IP技术成为未来信息网络的支柱技术，基于TCP3P的网络技术成为传送数据业务的主导技术。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-12" value="Internet的成功，使IP技术成为未来信息网络的支柱技术，基于TCP3P的网络技术成为传送数据业务的主导技术。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="770" y="430" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-18" value="为了克服传统电路交换中固定分配带宽的缺点和提高灵活性而提出。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-18" value="为了克服传统电路交换中固定分配带宽的缺点和提高灵活性而提出。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-19" value="帧中继是一个为突发数据应用而设计的新兴网络访问协议。只具有核心的网络功能，以提供高速、高吞吐量、低时延服务的交换方式。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-19" value="帧中继是一个为突发数据应用而设计的新兴网络访问协议。只具有核心的网络功能，以提供高速、高吞吐量、低时延服务的交换方式。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="420" y="660" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-23" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-20" target="n56QRDZfdTH0vBFQAGBd-18">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-23" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-20" target="n56QRDZfdTH0vBFQAGBd-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-20" value="快速电路交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-20" value="快速电路交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="380" y="540" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-22" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-21" target="n56QRDZfdTH0vBFQAGBd-19">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-22" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-21" target="n56QRDZfdTH0vBFQAGBd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-21" value="&lt;div&gt;快速分组交换-&lt;/div&gt;&lt;div&gt;帧中继&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-21" value="&lt;div&gt;快速分组交换-&lt;/div&gt;&lt;div&gt;帧中继&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="450" y="560" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-24" value="采用面向连接的方式，可以保证为用户提供足够的带宽，但利用率不高。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-24" value="采用面向连接的方式，可以保证为用户提供足够的带宽，但利用率不高。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="170" y="211.25" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-25" value="电路交换这种网络交换方式对于数据业务而言有很大局限性，于是提出面向无连接方式的分组交换技术，电路利用率高，但时延较大。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-25" value="电路交换这种网络交换方式对于数据业务而言有很大局限性，于是提出面向无连接方式的分组交换技术，电路利用率高，但时延较大。" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="100" y="530" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-28" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-26" target="n56QRDZfdTH0vBFQAGBd-24">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-28" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-26" target="n56QRDZfdTH0vBFQAGBd-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-26" value="电路交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-26" value="电路交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="270" y="301.25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-27" value="存储转发交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-27" value="存储转发交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="250" y="381.25" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-29" value="报文交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-29" value="报文交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="195" y="391.25" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-31" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-30">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-31" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" edge="1" parent="1" source="n56QRDZfdTH0vBFQAGBd-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="533.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-30" value="分组交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-30" value="分组交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="220" y="441.25" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n56QRDZfdTH0vBFQAGBd-32" value="&lt;div&gt;1878-人工交换&lt;/div&gt;&lt;div&gt;1892-机电交换&lt;/div&gt;&lt;div&gt;1940-电子交换&lt;/div&gt;&lt;div&gt;1965-程控数字交换&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-32" value="&lt;div&gt;1878-人工交换&lt;/div&gt;&lt;div&gt;1892-机电交换&lt;/div&gt;&lt;div&gt;1940-电子交换&lt;/div&gt;&lt;div&gt;1965-程控数字交换&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-34" value="通信工程171班&lt;br&gt;赵镜元&lt;br&gt;2017136133" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="850" y="590" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
