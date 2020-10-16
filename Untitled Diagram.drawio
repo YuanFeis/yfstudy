@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T14:15:44.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="9J5gxF1SLYIBfYzex20D" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T14:16:12.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="39S4CDr8jcHQmasdFlo3" version="13.8.0" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -19,8 +19,11 @@
         <mxCell id="45236fa5f4b8e91a-3" value="宽带交换技术" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;" parent="1" vertex="1">
           <mxGeometry x="630" y="230" width="110" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-33" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="45236fa5f4b8e91a-4" target="n56QRDZfdTH0vBFQAGBd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="45236fa5f4b8e91a-4" value="电话交换" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;" parent="1" vertex="1">
-          <mxGeometry x="390" y="210" width="80" height="105" as="geometry" />
+          <mxGeometry x="390" y="240" width="80" height="75" as="geometry" />
         </mxCell>
         <mxCell id="n56QRDZfdTH0vBFQAGBd-15" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="45236fa5f4b8e91a-6" target="n56QRDZfdTH0vBFQAGBd-4">
           <mxGeometry relative="1" as="geometry" />
@@ -105,6 +108,9 @@
         </mxCell>
         <mxCell id="n56QRDZfdTH0vBFQAGBd-30" value="分组交换" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="210" y="447.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n56QRDZfdTH0vBFQAGBd-32" value="&lt;div&gt;1878-人工交换&lt;/div&gt;&lt;div&gt;1892-机电交换&lt;/div&gt;&lt;div&gt;1940-电子交换&lt;/div&gt;&lt;div&gt;1965-程控数字交换&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
